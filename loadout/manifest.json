@@ -1,0 +1,14 @@
+{
+  "version": "v0.2",
+  "id": "Voidaspect.itemspawner",
+  "name": "Item Madness",
+  "description": "will spawn any item with custom made file",
+  "authors": [
+    "Voidaspect220"
+  ],
+  "frameworkVersion": "2.0.0",
+  "options": [],
+  "contentFolders": [
+    "content"
+  ]
+}
